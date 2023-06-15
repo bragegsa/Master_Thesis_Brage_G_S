@@ -25,3 +25,7 @@ I have only modified certain aspects of the code. These are:
 
 
 Different optimizers and layer setups must be chosen in the file "RGAE_mat/utils/RGAE/RGAE.m"
+
+## Datasets
+Datasets must be placed in the RGAE_mat/datasets/ folder. If you want to use KPCA, you need to save the KPCA of the datasets you want to use in a folder within dim_red/.
+
